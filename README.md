@@ -28,6 +28,6 @@
 
 ---
 ### 🌱 Always Building, Always Learning
-I am currently diving deeper into advanced Next.js patterns and modern animation libraries like GSAP. 
+The best way to write secure and reliable applications is to write less code.
 
-> "The best way to write secure and reliable applications is to write less code." 
+> "I am currently diving deeper into advanced Next.js, React.js and modern animation libraries like GSAP."
